@@ -1,0 +1,7 @@
+Credentials cache: API:BF7B3EEF-F97C-456B-B04B-F16D46235AEF
+        Principal: qbuisson@42.FR
+
+  Issued                Expires               Principal
+Aug 28 08:53:02 2017  Sep  4 08:53:02 2017  krbtgt/42.FR@42.FR
+Aug 28 08:53:04 2017  Sep  4 08:53:02 2017  ldap/ldap-proxy.42.fr@42.FR
+Aug 28 08:53:04 2017  Sep  4 08:53:02 2017  HTTP/student-storage-2.42.fr@42.FR
